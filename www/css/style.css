@@ -1,4 +1,4 @@
-/* Empty. Add your own CSS if you like */
+ Empty. Add your own CSS if you like */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 .library-text {
 	color: black;
@@ -12,7 +12,20 @@ font-family: 'Open Sans', sans-serif;
 	background-color: red!important;
 }*/
 
-.services-content {
-/*	background-image: url("../img/library.jpg");
-*/
+
+ion-content 
+{	background-image: url("../img/back2.jpg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:100% 100%;
+}
+
+
+.menu-content 
+{ 
+  background-image: url("../img/logo.jpg");
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-size:100% 100% !important;
+
 }

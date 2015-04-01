@@ -165,11 +165,11 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     }
   })
 
-  .state('app.feedback', {
-    url: "/feedback",
+  .state('app.contact us', {
+    url: "/contact us",
     views: {
       'menuContent': {
-        templateUrl: "templates/feedback.html"
+        templateUrl: "templates/contact us.html"
       }
     }
   })
