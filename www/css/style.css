@@ -1,1 +1,35 @@
+<<<<<<< HEAD
 /* Empty. Add your own CSS if you like */
+=======
+ Empty. Add your own CSS if you like */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
+.library-text {
+	color: black;
+margin-top: 30px!important;
+font-family: 'Open Sans', sans-serif;
+}
+
+/*Change all background colors*/
+
+ion-content {
+	background-color: #8caf1f!important;
+}
+
+
+/*ion-content 
+{	background-image: url("../img/back2.jpg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:100% 100%;
+}
+*/
+
+.menu-content 
+{ 
+  background-image: url("../img/logo.jpg");
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-size:100% 100% !important;
+
+}
+>>>>>>> origin/master
