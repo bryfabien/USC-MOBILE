@@ -8,18 +8,18 @@ font-family: 'Open Sans', sans-serif;
 
 /*Change all background colors*/
 
-/*ion-content {
-	background-color: red!important;
-}*/
+ion-content {
+	background-color: #8caf1f!important;
+}
 
 
-ion-content 
+/*ion-content 
 {	background-image: url("../img/back2.jpg");
 	background-repeat:no-repeat;
 	background-position:center center;
 	background-size:100% 100%;
 }
-
+*/
 
 .menu-content 
 { 
